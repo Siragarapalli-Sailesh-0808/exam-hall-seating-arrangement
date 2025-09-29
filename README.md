@@ -51,9 +51,6 @@ Clone the Repository:
 
 Bash
 
-git clone [Your Repository URL Here]
-Place the Project Folder:
-
 Copy the entire project folder (Exam-Hall-Seating-Arrangement-main or similar) into your web server's root directory (e.g., htdocs for XAMPP, www for WAMP).
 
 Database Setup:
